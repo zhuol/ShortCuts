@@ -1,0 +1,4 @@
+fn+command+f12      search on method/function
+command+n           search for class name
+command+shift+n     search for file name
+command+alt+shift+n search for symbol
